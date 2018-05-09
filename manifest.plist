@@ -17,13 +17,13 @@
 					<key>kind</key>
 					<string>display-image</string>
 					<key>url</key>
-					<string>https://117.43.10.111:8443/river/apk/download/icon-57.png</string>
+					<string>https://raw.githubusercontent.com/MiroHuang/jxwdyf/master/icon-57.png</string>
 				</dict>
 				<dict>
 					<key>kind</key>
 					<string>full-size-image</string>
 					<key>url</key>
-					<string>https://117.43.10.111:8443/river/apk/download/icon-512.png</string>
+					<string>https://raw.githubusercontent.com/MiroHuang/jxwdyf/master/icon-512.png</string>
 				</dict>
 			</array>
 			<key>metadata</key>
