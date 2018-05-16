@@ -1,2 +1,1 @@
 # jxwdyf
-manifest plist file
