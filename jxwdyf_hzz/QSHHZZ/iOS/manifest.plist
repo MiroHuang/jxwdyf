@@ -11,19 +11,19 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>http://59.53.183.234:9003/river/apk/download/qshhzz.ipa</string>
+					<string>http://59.53.183.234:9003/river-site/qshhzz.ipa</string>
 				</dict>
 				<dict>
 					<key>kind</key>
 					<string>display-image</string>
 					<key>url</key>
-					<string>http://59.53.183.234:9003/river/apk/download/icon-57.png</string>
+					<string>http://59.53.183.234:9003/river-site/icon-57.png</string>
 				</dict>
 				<dict>
 					<key>kind</key>
 					<string>full-size-image</string>
 					<key>url</key>
-					<string>http://59.53.183.234:9003/river/apk/download/icon-512.png</string>
+					<string>http://59.53.183.234:9003/river-site/icon-512.png</string>
 				</dict>
 			</array>
 			<key>metadata</key>
