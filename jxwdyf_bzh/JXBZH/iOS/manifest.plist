@@ -29,13 +29,13 @@
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>com.jxwdyf.jjhzz</string>
+				<string>com.jxwdyf.jxbzh</string>
 				<key>bundle-version</key>
 				<string>1.0</string>
 				<key>kind</key>
 				<string>software</string>
 				<key>title</key>
-				<string>九江市河长通</string>
+				<string>标准化巡查</string>
 			</dict>
 		</dict>
 	</array>
